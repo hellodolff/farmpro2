@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "FarmPro",
+    "slug": "farmpro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": { "package": "id.farmpro.app", "usesCleartextTraffic": true },
+    "ios": { "bundleIdentifier": "id.farmpro.app" }
+  }
+}
